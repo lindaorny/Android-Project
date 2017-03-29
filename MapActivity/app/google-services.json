@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925076712449",
+    "project_id": "vast-bounty-161605"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925076712449:android:a4539d47c77ee37c",
+        "android_client_info": {
+          "package_name": "ca.dal.cs.nor.lab07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925076712449-vs4otih9jehfvhhhch08054a2vl1rohi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "925076712449-p1kj28fgjril0bvnflh1ptbhr0dimiu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.dal.cs.nor.lab07",
+            "certificate_hash": "21f0866545eadc091ae893001e3c7ac380b9d6c5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKc-G-UfwmNcWwug1AThfDVkojins-m-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

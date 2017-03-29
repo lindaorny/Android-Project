@@ -1,0 +1,4 @@
+- Generating key from Google API website
+- debugging: Add dependencies(google.service), google-service json file
+- Know where to place the API keys 
+- fragment for Map

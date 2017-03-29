@@ -1,0 +1,625 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shirreff Hall",
+               "short_name" : "Shirreff Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "6385",
+               "short_name" : "6385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Street",
+               "short_name" : "South St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B3H 4J4",
+               "short_name" : "B3H 4J4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shirreff Hall, 6385 South St, Halifax, NS B3H 4J4加拿大",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6351438,
+                  "lng" : -63.5937427
+               },
+               "southwest" : {
+                  "lat" : 44.634449,
+                  "lng" : -63.5952458
+               }
+            },
+            "location" : {
+               "lat" : 44.63479419999999,
+               "lng" : -63.59423090000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.63614538029151,
+                  "lng" : -63.59314526970849
+               },
+               "southwest" : {
+                  "lat" : 44.63344741970851,
+                  "lng" : -63.5958432302915
+               }
+            }
+         },
+         "place_id" : "ChIJ6XQ7CiMiWksR8EMWXiM66LA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6385",
+               "short_name" : "6385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Street",
+               "short_name" : "South St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B3H 4J4",
+               "short_name" : "B3H 4J4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6385 South St, Halifax, NS B3H 4J4加拿大",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.6347487,
+               "lng" : -63.59449180000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6360976802915,
+                  "lng" : -63.5931428197085
+               },
+               "southwest" : {
+                  "lat" : 44.6333997197085,
+                  "lng" : -63.59584078029151
+               }
+            }
+         },
+         "place_id" : "ChIJ11d5CSMiWksRQFis8e2jRCc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South End, Halifax, NS, 加拿大",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.652882,
+                  "lng" : -63.55779649999999
+               },
+               "southwest" : {
+                  "lat" : 44.617496,
+                  "lng" : -63.61487380000001
+               }
+            },
+            "location" : {
+               "lat" : 44.63488100000001,
+               "lng" : -63.5788066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.652882,
+                  "lng" : -63.55779649999999
+               },
+               "southwest" : {
+                  "lat" : 44.617496,
+                  "lng" : -63.61487380000001
+               }
+            }
+         },
+         "place_id" : "ChIJUWBK2zsiWksR5s71Vw5w1Ac",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "新斯科細亞",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.703604,
+                  "lng" : -63.5576784
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            },
+            "location" : {
+               "lat" : 44.6488625,
+               "lng" : -63.5753196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7035313,
+                  "lng" : -63.5576784
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            }
+         },
+         "place_id" : "ChIJwfrbBxQhWksR3C2LQ6bja2Y",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B3H 4H6",
+               "short_name" : "B3H 4H6",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯邮政编码: B3H 4H6",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.63446099999999,
+               "lng" : -63.5943019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6358099802915,
+                  "lng" : -63.5929529197085
+               },
+               "southwest" : {
+                  "lat" : 44.6331120197085,
+                  "lng" : -63.59565088029151
+               }
+            }
+         },
+         "place_id" : "ChIJjfFyDyMiWksR3jLBFYJrNFI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B3H 4J4",
+               "short_name" : "B3H 4J4",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯邮政编码: B3H 4J4",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.63559370000001,
+                  "lng" : -63.59370579999999
+               },
+               "southwest" : {
+                  "lat" : 44.634242,
+                  "lng" : -63.59533190000001
+               }
+            },
+            "location" : {
+               "lat" : 44.6348656,
+               "lng" : -63.5943411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6362668302915,
+                  "lng" : -63.59316986970849
+               },
+               "southwest" : {
+                  "lat" : 44.6335688697085,
+                  "lng" : -63.5958678302915
+               }
+            }
+         },
+         "place_id" : "ChIJofe3dyMiWksRo202hkCiZlE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B3H",
+               "short_name" : "B3H",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯邮政编码: B3H",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6495641,
+                  "lng" : -63.5576719
+               },
+               "southwest" : {
+                  "lat" : 44.617493,
+                  "lng" : -63.6133589
+               }
+            },
+            "location" : {
+               "lat" : 44.63488100000001,
+               "lng" : -63.5788066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6495641,
+                  "lng" : -63.5576719
+               },
+               "southwest" : {
+                  "lat" : 44.617493,
+                  "lng" : -63.6133589
+               }
+            }
+         },
+         "place_id" : "ChIJLxFtDjwiWksRqm-sVv0GwUk",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "新斯科細亞",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            },
+            "location" : {
+               "lat" : 44.648901,
+               "lng" : -63.57533539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2760991,
+                  "lng" : -62.0945315
+               },
+               "southwest" : {
+                  "lat" : 44.432602,
+                  "lng" : -64.23714699999999
+               }
+            }
+         },
+         "place_id" : "ChIJxesm0LsTRUsRILJDPNmXBBs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "哈利法克斯",
+               "short_name" : "哈利法克斯",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "新斯科細亞",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞哈利法克斯",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            },
+            "location" : {
+               "lat" : 44.64876350000001,
+               "lng" : -63.5752387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2760991,
+                  "lng" : -62.0945315
+               },
+               "southwest" : {
+                  "lat" : 44.432602,
+                  "lng" : -64.23714699999999
+               }
+            }
+         },
+         "place_id" : "ChIJxesm0LsTRUsRW2dKWg1nkM0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "新斯科細亞",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "加拿大",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "加拿大新斯科細亞",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5570506,
+                  "lng" : -58.09457509999999
+               },
+               "southwest" : {
+                  "lat" : 40.451472,
+                  "lng" : -67.7425278
+               }
+            },
+            "location" : {
+               "lat" : 44.68198659999999,
+               "lng" : -63.744311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.227613,
+                  "lng" : -59.6716346
+               },
+               "southwest" : {
+                  "lat" : 43.3896915,
+                  "lng" : -66.39478799999999
+               }
+            }
+         },
+         "place_id" : "ChIJRc8Y3pgSWUsRQAnP-B5YAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
